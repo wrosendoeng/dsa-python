@@ -1,0 +1,16 @@
+classe
+- template
+objeto:
+- instancia da classe
+atributos:
+- caract para identificar objetos
+metodos:
+- funcoes aplicadas a objetos
+mensagem:
+- forma de chamar os métodos
+herança:
+- conceito de subclasses dentro de classes
+polimorfismo:
+-
+encapsulamento:
+- 
